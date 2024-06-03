@@ -1,19 +1,19 @@
 ﻿//version: 3 (UM: 13.0.0.0)
-//{"ReadOnly":false,"Name":"Model","Guid":"{d6a51b02-ffbf-db63-f468-427fce3c11e8}","Description":null,"Authors":null,"Owners":null,"ReleaseNotes":null,"Copyright":null,"Tags":null,"Version":"A","OID":"256f7380449096b438a124fc0587a45d8a461ed0f2dedf2bca403d7a759d7aa2","Status":0,"Dependencies":[],"ModelPackageInfo":"{EC99B441-BF04-4af2-9BEB-7C1E6D16768A}:437d86b97c5fa5ef18f863bfc88fb12c2680c1bb91b2bbcdd05fed5ec2d87f8b"}
+//{"ReadOnly":false,"Name":"Model","Guid":"{d6a51b02-ffbf-db63-f468-427fce3c11e8}","Description":null,"Authors":null,"Owners":null,"ReleaseNotes":null,"Copyright":null,"Tags":null,"Version":"A","OID":"47b7abc75f29a29c57f271b901816e17ec48681026d7ff3ef89d5bdfc25a04ed","Status":0,"Dependencies":[],"ModelPackageInfo":"{EC99B441-BF04-4af2-9BEB-7C1E6D16768A}:7c644f2eff67681fe2c27044316396ca4bd8571ebc15921f48b2456ec1902bd6"}
 //format: Raw
 {
  "version": "13.0.0.0",
  "objects": [
   {
-   "oid": "BurDfjSEysvZ2JejJcOWI6msAknYDH641hpVBGv1LX4=",
+   "oid": "IjRkm17myow76ljszYIWc2SOmKroHF21ltGMGPU0Pf4=",
    "id": "{4aaf7670-8c2a-9b46-1c5e-d4482fb5ba5b}",
    "meta": [],
    "prop": [],
    "sub": [
-    "JgNpovCUonqbXN15F1MukUJG69b7UCDPZdzw77K+9Pk=",
+    "LAU8gKMsmMxXv60YJ1FAyE3Rog23E9LEJwiQPYg4zyE=",
     "PLA2rVTDXPGohLu9NDwlTpprQgUJenY6VwXvAxdZRWo=",
     "pgqftk7TIVuKdhX6B+EezGcdsucwnplD1gqtvC9LMPQ=",
-    "12OgGunt4NSym8QQKSwx2CQATVkwCMdyeN6U3mxlAHk="]},
+    "ug/01/bv/s4qpgozC3E63jA7sGWmyqaqMx/2j7w5jUU="]},
   {
    "oid": "PLA2rVTDXPGohLu9NDwlTpprQgUJenY6VwXvAxdZRWo=",
    "id": "{1C7F10E3-7B3B-44F5-8954-A99BA9CFD3BA}",
@@ -46,7 +46,7 @@
     "4RKcEEM6nKV2fgE81OE0QFmu8c38dxOSHkRyzjEjJL0=",
     "7NU66hg33sFW+83FcNh/xVJghzl3t+P1T+RcgiKFqDg="]},
   {
-   "oid": "12OgGunt4NSym8QQKSwx2CQATVkwCMdyeN6U3mxlAHk=",
+   "oid": "ug/01/bv/s4qpgozC3E63jA7sGWmyqaqMx/2j7w5jUU=",
    "id": "{EA1D0A51-F03B-4840-ACBA-B41F592304EE}",
    "meta": [
     ["+UT","Model"]],
@@ -60,9 +60,9 @@
     ["+M","+V","Public"]],
    "parent": "{4aaf7670-8c2a-9b46-1c5e-d4482fb5ba5b}",
    "sub": [
-    "JHE/yBn/SerlXYNELeBuzEI7JbK1vUEhV1Jw128Ze9c="]},
+    "SUKO9vr3s2g2iDxRCSlou/F8IwFTs8BvGsHeK8QAawI="]},
   {
-   "oid": "JgNpovCUonqbXN15F1MukUJG69b7UCDPZdzw77K+9Pk=",
+   "oid": "LAU8gKMsmMxXv60YJ1FAyE3Rog23E9LEJwiQPYg4zyE=",
    "id": "{EC99B441-BF04-4af2-9BEB-7C1E6D16768A}",
    "meta": [
     ["+ET","t_package"],
@@ -73,7 +73,7 @@
     ["+M","+D",""],
     ["+X","+CD?","false"],
     ["+M","IsLeaf","false"],
-    ["+M","+N","Model"],
+    ["+M","+N","ModelMerged"],
     ["+M","URI",""],
     ["+M","+V","Public"]],
    "tval": [
@@ -90,7 +90,7 @@
     ["Element Metadata 1.0::ModifiedDate",""]],
    "parent": "{4aaf7670-8c2a-9b46-1c5e-d4482fb5ba5b}",
    "sub": [
-    "fDRTmcgGgtgtkaKM3q3McAhZafZKXQotZFjX/G5o2Ts="]},
+    "Z3QHGy6A1hIWlT7TUUFR0ogwXDekFJG+XYqQ/VKeKp0="]},
   {
    "oid": "pgqftk7TIVuKdhX6B+EezGcdsucwnplD1gqtvC9LMPQ=",
    "id": "{c02ad59c-d690-4e77-eac6-0e870a158c28}",
@@ -255,7 +255,7 @@
    "ref": [
     ["{EA Specifics 1.0::t_stereotypes}","Stereotype",72]]},
   {
-   "oid": "JHE/yBn/SerlXYNELeBuzEI7JbK1vUEhV1Jw128Ze9c=",
+   "oid": "SUKO9vr3s2g2iDxRCSlou/F8IwFTs8BvGsHeK8QAawI=",
    "id": "{d2aab1df-fa41-d05a-3544-f57fb290b09b}",
    "meta": [
     ["+ET","t_package"],
@@ -285,9 +285,9 @@
     ["EA Specifics 1.0::Version",""],
     ["Element Metadata 1.0::CreatedDate","2024-06-03T16:41:48Z"],
     ["Element Metadata 1.0::ModifiedDate","2024-06-03T16:41:48Z"],
-    ["MPMS Configuration.Last Exported Version","A"],
     ["MPMS Original Location Data","[{\"PackageIdentifier\":{\"id\":\"{EC99B441-BF04-4af2-9BEB-7C1E6D16768A}\"},\"StructurePath\":[]}]"]],
    "tvx": [
+    ["{03c99fd8-4253-2cb7-f35a-1dcdb6097a23}","MPMS Configuration.Last Exported Version","A",null,"",false],
     ["{d2fb9c95-ffb1-f1e7-a9bf-40f31c90c493}","MPMS Package GUID","{d6a51b02-ffbf-db63-f468-427fce3c11e8}",null,"",false]],
    "parent": "{EA1D0A51-F03B-4840-ACBA-B41F592304EE}",
    "ref": [
@@ -295,9 +295,9 @@
     ["{mpms spec+package}","Stereotype",72]],
    "sub": [
     "hXQBar+iLBf6PHWnbqyCwHl23p2qGymi/GMBHbceRdE=",
-    "no89PBOTfmaq553eRgXmnoXUQjmEQAEmlGOiZXS0UJw="]},
+    "2H1Z2ey0+P3OmHX21ja02wadZWReTCBwd/a7b2lX5+Y="]},
   {
-   "oid": "fDRTmcgGgtgtkaKM3q3McAhZafZKXQotZFjX/G5o2Ts=",
+   "oid": "Z3QHGy6A1hIWlT7TUUFR0ogwXDekFJG+XYqQ/VKeKp0=",
    "id": "{AAA3947C-3EE0-42fd-A16F-0FA842EEC18B}",
    "meta": [
     ["+ET","t_package"],
@@ -328,9 +328,10 @@
     ["Element Metadata 1.0::ModifiedDate","2024-06-03T16:45:45Z"]],
    "parent": "{EC99B441-BF04-4af2-9BEB-7C1E6D16768A}",
    "sub": [
+    "E1OaU/XNkZnspy+ehZs0ze49+kKs2RiSwNuFWjoHwck=",
+    "I8a75IUSHAOk+16jX8Y3tNv+OskL2wOSEXonZZq+5Ys=",
     "I/2pYZ49V9pA1wG1UiolKdgM9UHl3d2ujzTnyxmW/lI=",
-    "1VGI3mycoMs3FoOpmwEy7Z3uQO+Y2Iu8OBHpwiy0vxc=",
-    "4eSXvnqegtL6mcUkW7/rDJO80pUlm0NjRoIiqm0zekA="]},
+    "fGiV7s03Uliz12q8Qrp+mUPIbbT1px/Jm4mVADcBrmM="]},
   {
    "oid": "y2bA9XpTAZsGAh3+KrW0QlHfN3G0rTbS9ilCWZI5p/I=",
    "id": "{b0917864-b3e8-d79b-b4fa-fb82b956b4be}",
@@ -346,7 +347,7 @@
     ["+M","+V","Public"]],
    "parent": "{c02ad59c-d690-4e77-eac6-0e870a158c28}"},
   {
-   "oid": "no89PBOTfmaq553eRgXmnoXUQjmEQAEmlGOiZXS0UJw=",
+   "oid": "2H1Z2ey0+P3OmHX21ja02wadZWReTCBwd/a7b2lX5+Y=",
    "id": "{591a09cf-1460-d7dd-00c2-5713c9a2b8dc}",
    "meta": [
     ["+ET","t_object"],
@@ -392,11 +393,11 @@
     "CBU+TJ3QbnaSjqH2sF0vXTen9VqTGTAYXAwP/zGhZ2M=",
     "COUmzAhSNm4NGJ4Lgx8UCb82k51hD/NSkN79EtLxe+U=",
     "EdM9qOEMJqTqVyOnhFAcqK3QkgHyoV+tEINcarq+2vo=",
+    "EkUnuYXqLjvzwlMgIPdTntS6oTlSWSxKwsbUOQmwlaM=",
     "FG/r78Ad4B5ru0LtZ+YccRmoCMdPheRcu07Noxlk67w=",
-    "KKUX9dTw6JMQsq0YBpkgALBrsrQyAqT3JXm7VYtz7o4=",
     "ZajgHnKL6BDoBwcwbCG0BqhbVAX+jGVFCLH32/MDRAY=",
     "bKWETYUdKrRZ1dPrYH44cm5o3v8IGikbCo1YW40bqco=",
-    "uCbQgR9Wu9awqpTUQ0KZYMeoWV+Dy+CEVynf1YvC6oI=",
+    "oRxgaULX5nDY/M2FKT0TiZqM8bzZavC4d3/Tmlx0Y9I=",
     "uQGjWFG6x0VqsCYyb6WQ1gHFg4p/n/a2XxHIy7uZNiA=",
     "6l/LvaffdSemqgcXChvTy/zseKP5EXvXqp/qjlqG6Ss=",
     "60FNJRKCug4GkHUXWbzYGmKn/WVWg77yuYnPzo37pNA=",
@@ -447,7 +448,7 @@
     "egkaN9Hm2+t89jA/OT1zrOnOV9rjF/FbScYlXbVYyiY=",
     "7NhZBC1kjP90zKGqM4/7D5ONUlh04YXQQ3Pqa+aeii4="]},
   {
-   "oid": "4eSXvnqegtL6mcUkW7/rDJO80pUlm0NjRoIiqm0zekA=",
+   "oid": "I8a75IUSHAOk+16jX8Y3tNv+OskL2wOSEXonZZq+5Ys=",
    "id": "{15DDDF2B-7DDD-44d9-B612-757A2444B436}",
    "meta": [
     ["Diagram_Type","Logical"],
@@ -480,14 +481,16 @@
     ["EA Specifics 1.0::Swimlanes","locked=false;orientation=0;width=0;inbar=false;names=false;color=-1;bold=false;fcol=0;tcol=-1;ofCol=-1;ufCol=-1;hl=1;ufh=0;hh=0;cls=0;bw=0;hli=0;bro=0;"],
     ["EA Specifics 1.0::Version","1.0"],
     ["Element Metadata 1.0::CreatedDate","2024-06-03T16:45:54Z"],
-    ["Element Metadata 1.0::ModifiedDate","2024-06-03T16:46:46Z"]],
+    ["Element Metadata 1.0::ModifiedDate","2024-06-03T16:53:14Z"]],
    "parent": "{AAA3947C-3EE0-42fd-A16F-0FA842EEC18B}",
    "sub": [
     "SF0/vG1fFVfc0RDt2qUCVm0CdBisoFZHPMYNFqYFkRg=",
     "auKMZ6haCH72A0aJSZoNL/aJ93WUkIoexjZcpaKUeRE=",
+    "pfftJ436TNXlpE6eI5FkQNW2gpY4UK1EYt7nTkVGLmk=",
+    "0Tda1Q4LfGtyzf5bCy8VtXOkEcoSLB0ZH3tHXdiPFGc=",
     "36JcVWOvS164Os2rjqsqqENgZSnOKqyQWel5CRAeI7I="]},
   {
-   "oid": "1VGI3mycoMs3FoOpmwEy7Z3uQO+Y2Iu8OBHpwiy0vxc=",
+   "oid": "E1OaU/XNkZnspy+ehZs0ze49+kKs2RiSwNuFWjoHwck=",
    "id": "{8AB1E633-8B51-41a9-8C1E-4A6ED6B05711}",
    "meta": [
     ["+ET","t_object"],
@@ -504,7 +507,7 @@
     ["+M","+ACT?","false"],
     ["+M","+FS?","false"],
     ["+M","IsLeaf","false"],
-    ["+M","+N","ACO CR"],
+    ["+M","+N","CR"],
     ["+M","+V","Public"]],
    "tval": [
     ["EA Specifics 1.0::Author","user"],
@@ -524,7 +527,7 @@
     ["EA Specifics 1.0::Version","1.0"],
     ["EA Specifics 1.0::t_xref::CustomProperties","@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=ArchiMate3::Business@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;@PROP=@NAME=_HideUmlLinks@ENDNAME;@TYPE=string@ENDTYPE;@VALU=True@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;"],
     ["Element Metadata 1.0::CreatedDate","2024-06-03T16:46:16Z"],
-    ["Element Metadata 1.0::ModifiedDate","2024-06-03T16:46:20Z"],
+    ["Element Metadata 1.0::ModifiedDate","2024-06-03T16:50:55Z"],
     ["UM::stereotype::ArchiMate_BusinessRole::fqn","ArchiMate3::ArchiMate_BusinessRole"]],
    "parent": "{AAA3947C-3EE0-42fd-A16F-0FA842EEC18B}",
    "ref": [
@@ -576,6 +579,52 @@
     ["{ArchiMate3::ArchiMate_BusinessActor}","Stereotype",72]],
    "sub": [
     "0Zbuvu8XHydDvMhpI2dJ5PrcpPAeRFHkjRpdSV7nG5I="]},
+  {
+   "oid": "fGiV7s03Uliz12q8Qrp+mUPIbbT1px/Jm4mVADcBrmM=",
+   "id": "{A15F93E1-08BF-4abc-9D92-6ED784EAA3E6}",
+   "meta": [
+    ["+ET","t_object"],
+    ["+EY","Class"],
+    ["+NT","0"],
+    ["+OT","Class"],
+    ["+ST","ArchiMate_BusinessActor"],
+    ["+UT","Class"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+X","+CD?","false"],
+    ["+M","+ABS?","false"],
+    ["+M","+ACT?","false"],
+    ["+M","+FS?","false"],
+    ["+M","IsLeaf","false"],
+    ["+M","+N","ATO"],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::Author","user"],
+    ["EA Specifics 1.0::Backcolor","-1"],
+    ["EA Specifics 1.0::BorderStyle","0"],
+    ["EA Specifics 1.0::BorderWidth","1"],
+    ["EA Specifics 1.0::Bordercolor","-1"],
+    ["EA Specifics 1.0::Complexity","1"],
+    ["EA Specifics 1.0::Fontcolor","-1"],
+    ["EA Specifics 1.0::Language","Java"],
+    ["EA Specifics 1.0::Phase","1.0"],
+    ["EA Specifics 1.0::Pos",""],
+    ["EA Specifics 1.0::Status","Proposed"],
+    ["EA Specifics 1.0::StereotypeString","ArchiMate_BusinessActor"],
+    ["EA Specifics 1.0::Style",""],
+    ["EA Specifics 1.0::StyleEx",""],
+    ["EA Specifics 1.0::Version","1.0"],
+    ["EA Specifics 1.0::t_xref::CustomProperties","@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=ArchiMate3::Business@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;@PROP=@NAME=_HideUmlLinks@ENDNAME;@TYPE=string@ENDTYPE;@VALU=True@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;"],
+    ["Element Metadata 1.0::CreatedDate","2024-06-03T16:50:19Z"],
+    ["Element Metadata 1.0::ModifiedDate","2024-06-03T16:50:22Z"],
+    ["UM::stereotype::ArchiMate_BusinessActor::fqn","ArchiMate3::ArchiMate_BusinessActor"]],
+   "parent": "{AAA3947C-3EE0-42fd-A16F-0FA842EEC18B}",
+   "ref": [
+    ["{ArchiMate3::ArchiMate_BusinessActor}","PrimaryStereotype",16],
+    ["{ArchiMate3::ArchiMate_BusinessActor}","Stereotype",72]],
+   "sub": [
+    "FDxJutcavl+rPRK7Hp8Xk/uSjZlnyIC552CkY9e8kGI="]},
   {
    "oid": "EdM9qOEMJqTqVyOnhFAcqK3QkgHyoV+tEINcarq+2vo=",
    "id": "{08801f09-45c9-8f5e-7042-a72887700037}",
@@ -741,7 +790,7 @@
    "sub": [
     "0xmmIERIm1Nospl4FBvFgYW2yIwNuFMbKUHacjXdV1A="]},
   {
-   "oid": "uCbQgR9Wu9awqpTUQ0KZYMeoWV+Dy+CEVynf1YvC6oI=",
+   "oid": "oRxgaULX5nDY/M2FKT0TiZqM8bzZavC4d3/Tmlx0Y9I=",
    "id": "{9076a05f-ee75-4da8-2569-82656b5a4b7a}",
    "meta": [
     ["+ET","t_attribute"],
@@ -771,7 +820,11 @@
     ["EA Specifics 1.0::Pos","0"],
     ["EA Specifics 1.0::StyleEx",""],
     ["EA Specifics 1.0::TypeString","String"]],
-   "parent": "{591a09cf-1460-d7dd-00c2-5713c9a2b8dc}"},
+   "parent": "{591a09cf-1460-d7dd-00c2-5713c9a2b8dc}",
+   "ref": [
+    ["{fe6ab354-e798-8b2f-c0fb-103e4fb5d804}","DefaultValue",16]],
+   "sub": [
+    "GOJhbYQxL3Lh5XWr77x5hpkNPbVA3WLhVidSYvK7uk4="]},
   {
    "oid": "COUmzAhSNm4NGJ4Lgx8UCb82k51hD/NSkN79EtLxe+U=",
    "id": "{980f76f0-b118-f0fb-1c20-1b0a5d9e41af}",
@@ -841,7 +894,7 @@
     ["EA Specifics 1.0::TypeString","String"]],
    "parent": "{591a09cf-1460-d7dd-00c2-5713c9a2b8dc}"},
   {
-   "oid": "KKUX9dTw6JMQsq0YBpkgALBrsrQyAqT3JXm7VYtz7o4=",
+   "oid": "EkUnuYXqLjvzwlMgIPdTntS6oTlSWSxKwsbUOQmwlaM=",
    "id": "{bc8d4b3e-a64c-45e0-397d-0b152ff50ec0}",
    "meta": [
     ["+ET","t_attribute"],
@@ -871,7 +924,11 @@
     ["EA Specifics 1.0::Pos","0"],
     ["EA Specifics 1.0::StyleEx",""],
     ["EA Specifics 1.0::TypeString","String"]],
-   "parent": "{591a09cf-1460-d7dd-00c2-5713c9a2b8dc}"},
+   "parent": "{591a09cf-1460-d7dd-00c2-5713c9a2b8dc}",
+   "ref": [
+    ["{275fd54f-9293-d314-589d-0ad4be6f07d9}","DefaultValue",16]],
+   "sub": [
+    "d3GqhuVwy2EAEGl9b2bQPi0pjshe1SZnbUSCsHbvVj8="]},
   {
    "oid": "uQGjWFG6x0VqsCYyb6WQ1gHFg4p/n/a2XxHIy7uZNiA=",
    "id": "{cfa4f9f5-3cc8-ad8c-0070-fbc4a54bd498}",
@@ -1085,6 +1142,28 @@
    "sub": [
     "i38CWb8dJyVoq8fsBrLHlKl6FHACY1DbFGoNkV/ldr4="]},
   {
+   "oid": "pfftJ436TNXlpE6eI5FkQNW2gpY4UK1EYt7nTkVGLmk=",
+   "id": "{2325f211-e7e5-9744-dfa9-e04dd54195df}",
+   "meta": [
+    ["+ET","t_diagramlinks"],
+    ["+EY","DiagramLink"],
+    ["+UT","ea_DiagramLink"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+X","IsHidden","false"],
+    ["+M","IsLeaf","false"],
+    ["+M","+N",""],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::Geometry","SX=0;SY=0;EX=0;EY=0;EDGE=3;$LLB=;LLT=;LMT=;LMB=CX=102:CY=13:OX=0:OY=0:HDN=0:BLD=0:ITA=0:UND=0:CLR=-1:ALN=1:DIR=0:ROT=0;LRT=;LRB=;IRHS=;ILHS=;"],
+    ["EA Specifics 1.0::Path",""],
+    ["EA Specifics 1.0::Style","Mode=3;EOID=9D57887A;SOID=14E3D372;Color=-1;LWidth=1;"]],
+   "parent": "{15DDDF2B-7DDD-44d9-B612-757A2444B436}",
+   "ref": [
+    ["{15DDDF2B-7DDD-44d9-B612-757A2444B436}","DiagramIntegralFeature",32],
+    ["{EB4C91D0-888A-4ec3-9697-A1CF4586A913}","Represents",889]]},
+  {
    "oid": "auKMZ6haCH72A0aJSZoNL/aJ93WUkIoexjZcpaKUeRE=",
    "id": "{2cad6ce0-d6bf-4cda-a793-c41822de7dbf}",
    "meta": [
@@ -1112,6 +1191,35 @@
     ["{15DDDF2B-7DDD-44d9-B612-757A2444B436}","DiagramIntegralFeature",32],
     ["{15DDDF2B-7DDD-44d9-B612-757A2444B436}","UpdateDiagramobjects",8],
     ["{8AB1E633-8B51-41a9-8C1E-4A6ED6B05711}","Represents",889]]},
+  {
+   "oid": "0Tda1Q4LfGtyzf5bCy8VtXOkEcoSLB0ZH3tHXdiPFGc=",
+   "id": "{471fb70d-4c00-39c5-d6c2-80dab95854a7}",
+   "meta": [
+    ["+ET","t_diagramobjects"],
+    ["+EY","DiagramObject"],
+    ["+UT","ea_DiagramObject"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+X","Hyperlink",""],
+    ["+M","IsLeaf","false"],
+    ["+M","+N",""],
+    ["+M","RectBottom","-175"],
+    ["+M","RectLeft","499"],
+    ["+M","RectRight","589"],
+    ["+M","RectTop","-105"],
+    ["+M","+V","Public"],
+    ["+M","ZOrder","1"]],
+   "tval": [
+    ["EA Specifics 1.0::ObjectStyle::DUID","14E3D372"],
+    ["EA Specifics 1.0::ObjectStyle::HideIcon","0"],
+    ["EA Specifics 1.0::ObjectStyle::LBL","CX=90:CY=15:OX=0:OY=0:HDN=0:BLD=0:ITA=0:UND=0:CLR=-1:ALN=1:ALT=0:ROT=0"],
+    ["EA Specifics 1.0::ObjectStyle::UCRect","1"]],
+   "parent": "{15DDDF2B-7DDD-44d9-B612-757A2444B436}",
+   "ref": [
+    ["{15DDDF2B-7DDD-44d9-B612-757A2444B436}","DiagramIntegralFeature",32],
+    ["{15DDDF2B-7DDD-44d9-B612-757A2444B436}","UpdateDiagramobjects",8],
+    ["{A15F93E1-08BF-4abc-9D92-6ED784EAA3E6}","Represents",889]]},
   {
    "oid": "36JcVWOvS164Os2rjqsqqENgZSnOKqyQWel5CRAeI7I=",
    "id": "{7ac062c1-51d5-8512-a2a1-b01ca57f57bf}",
@@ -1210,6 +1318,52 @@
     "Bi6/c3Ou/dsEom1/cQ+SzeHsuSHnsQoil9aJ7JI4wzk=",
     "lqd3TZAEpFtjUWgLZVGDL6yRiSsa0ToeakYAy5UrDlA="]},
   {
+   "oid": "FDxJutcavl+rPRK7Hp8Xk/uSjZlnyIC552CkY9e8kGI=",
+   "id": "{EB4C91D0-888A-4ec3-9697-A1CF4586A913}",
+   "meta": [
+    ["Connector_Type","Association"],
+    ["+ET","t_connector"],
+    ["+EY","Association"],
+    ["+ST","ArchiMate_Assignment"],
+    ["SubType",""],
+    ["+UT","Association"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","+ABS?","false"],
+    ["+M","IsDerived","false"],
+    ["+M","+FS?","false"],
+    ["+M","IsLeaf","false"],
+    ["+M","+N",""],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::End_Edge","0"],
+    ["EA Specifics 1.0::IsBold","0"],
+    ["EA Specifics 1.0::LineColor","-1"],
+    ["EA Specifics 1.0::OwningDiagram",""],
+    ["EA Specifics 1.0::PDATA5","SX=0;SY=0;EX=0;EY=0;"],
+    ["EA Specifics 1.0::PtEndX","0"],
+    ["EA Specifics 1.0::PtEndY","0"],
+    ["EA Specifics 1.0::PtStartX","0"],
+    ["EA Specifics 1.0::PtStartY","0"],
+    ["EA Specifics 1.0::RouteStyle","3"],
+    ["EA Specifics 1.0::SeqNo","0"],
+    ["EA Specifics 1.0::Start_Edge","0"],
+    ["EA Specifics 1.0::StateFlags",""],
+    ["EA Specifics 1.0::StereotypeString","ArchiMate_Assignment"],
+    ["EA Specifics 1.0::Target2",""],
+    ["EA Specifics 1.0::t_connector::DirectionOverride","Source -> Destination"],
+    ["UM::stereotype::ArchiMate_Assignment::fqn","ArchiMate3::ArchiMate_Assignment"]],
+   "parent": "{A15F93E1-08BF-4abc-9D92-6ED784EAA3E6}",
+   "ref": [
+    ["{8AB1E633-8B51-41a9-8C1E-4A6ED6B05711}","Target",17],
+    ["{A15F93E1-08BF-4abc-9D92-6ED784EAA3E6}","Source",17],
+    ["{ArchiMate3::ArchiMate_Assignment}","PrimaryStereotype",16],
+    ["{ArchiMate3::ArchiMate_Assignment}","Stereotype",72]],
+   "sub": [
+    "husjuK3CuWB15ittrjqctdy+QuZBnKfvyuugpPCMfsI=",
+    "vM2FSy9YKB/FRz8RJXw18ltl7Ome4V1dWYKQASKYa1I="]},
+  {
    "oid": "0xmmIERIm1Nospl4FBvFgYW2yIwNuFMbKUHacjXdV1A=",
    "id": "{73633fb5-2734-e7d8-6ead-32ae27d5b5a9}",
    "meta": [
@@ -1225,6 +1379,21 @@
     ["+M","+V","Public"]],
    "parent": "{867aeb2f-d604-f96e-7a3d-d5609941dddf}"},
   {
+   "oid": "GOJhbYQxL3Lh5XWr77x5hpkNPbVA3WLhVidSYvK7uk4=",
+   "id": "{fe6ab354-e798-8b2f-c0fb-103e4fb5d804}",
+   "meta": [
+    ["+CC","true"],
+    ["+ET","None"],
+    ["+EY","None"],
+    ["+UT","LiteralString"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","+N",""],
+    ["+M","Value","{EC99B441-BF04-4af2-9BEB-7C1E6D16768A}:437d86b97c5fa5ef18f863bfc88fb12c2680c1bb91b2bbcdd05fed5ec2d87f8b"],
+    ["+M","+V","Public"]],
+   "parent": "{9076a05f-ee75-4da8-2569-82656b5a4b7a}"},
+  {
    "oid": "R7ll/wuR8nJM6VDBHAcvSwBUXj2aZHwDqPMkWTDRLYE=",
    "id": "{0c19567b-0544-8758-955f-bb98b2fb0b6a}",
    "meta": [
@@ -1239,6 +1408,21 @@
     ["+M","Value","False"],
     ["+M","+V","Public"]],
    "parent": "{980f76f0-b118-f0fb-1c20-1b0a5d9e41af}"},
+  {
+   "oid": "d3GqhuVwy2EAEGl9b2bQPi0pjshe1SZnbUSCsHbvVj8=",
+   "id": "{275fd54f-9293-d314-589d-0ad4be6f07d9}",
+   "meta": [
+    ["+CC","true"],
+    ["+ET","None"],
+    ["+EY","None"],
+    ["+UT","LiteralString"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","+N",""],
+    ["+M","Value","256f7380449096b438a124fc0587a45d8a461ed0f2dedf2bca403d7a759d7aa2"],
+    ["+M","+V","Public"]],
+   "parent": "{bc8d4b3e-a64c-45e0-397d-0b152ff50ec0}"},
   {
    "oid": "7yH6NqSkPd/MG7ymSePKNPAVV3i4/a3EBD+FZjqhJfg=",
    "id": "{85496c06-9d35-2142-cec8-752e8d1a6f39}",
@@ -1383,6 +1567,76 @@
    "ref": [
     ["{635ED0F5-4E1B-4e0c-B009-3D97B31387DA}","SourceConnectorEndOwner",55],
     ["{980AB222-81EF-449c-9841-CC6FF8C01FAA}","ConnectedObject",17],
-    ["{980AB222-81EF-449c-9841-CC6FF8C01FAA}","Type",24]]}
+    ["{980AB222-81EF-449c-9841-CC6FF8C01FAA}","Type",24]]},
+  {
+   "oid": "husjuK3CuWB15ittrjqctdy+QuZBnKfvyuugpPCMfsI=",
+   "id": "{8e6b3335-5407-a13d-c612-9af5421dd5e6}",
+   "meta": [
+    ["Connector_Type","Association"],
+    ["+ET","t_connector"],
+    ["+EY","ConnectorEnd"],
+    ["IsConnectorEnd","true"],
+    ["+UT","ConnectorEnd"]],
+   "prop": [
+    ["+M","AggregationKind","None"],
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","IsDerivedUnion","false"],
+    ["+M","IsID","false"],
+    ["+M","IsLeaf","false"],
+    ["+M","IsNavigable","false"],
+    ["+M","IsOrdered","false"],
+    ["+M","IsReadOnly","false"],
+    ["+M","IsStatic","false"],
+    ["+M","IsUnique","true"],
+    ["+M","+N",""],
+    ["+X","PropertyKind","AssociationEnd"],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::DestStyle::AllowDuplicates","0"],
+    ["EA Specifics 1.0::DestStyle::Derived","0"],
+    ["EA Specifics 1.0::DestStyle::Navigable","Unspecified"],
+    ["EA Specifics 1.0::DestStyle::Owned","0"],
+    ["EA Specifics 1.0::DestStyle::Union","0"]],
+   "parent": "{EB4C91D0-888A-4ec3-9697-A1CF4586A913}",
+   "ref": [
+    ["{8AB1E633-8B51-41a9-8C1E-4A6ED6B05711}","ConnectedObject",17],
+    ["{8AB1E633-8B51-41a9-8C1E-4A6ED6B05711}","Type",24],
+    ["{EB4C91D0-888A-4ec3-9697-A1CF4586A913}","TargetConnectorEndOwner",55]]},
+  {
+   "oid": "vM2FSy9YKB/FRz8RJXw18ltl7Ome4V1dWYKQASKYa1I=",
+   "id": "{beaa3649-e6e3-4013-19a1-bdd321d07ec2}",
+   "meta": [
+    ["Connector_Type","Association"],
+    ["+ET","t_connector"],
+    ["+EY","ConnectorEnd"],
+    ["IsConnectorEnd","true"],
+    ["+UT","ConnectorEnd"]],
+   "prop": [
+    ["+M","AggregationKind","None"],
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","IsDerivedUnion","false"],
+    ["+M","IsID","false"],
+    ["+M","IsLeaf","false"],
+    ["+M","IsNavigable","false"],
+    ["+M","IsOrdered","false"],
+    ["+M","IsReadOnly","false"],
+    ["+M","IsStatic","false"],
+    ["+M","IsUnique","true"],
+    ["+M","+N",""],
+    ["+X","PropertyKind","AssociationEnd"],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::SourceStyle::AllowDuplicates","0"],
+    ["EA Specifics 1.0::SourceStyle::Derived","0"],
+    ["EA Specifics 1.0::SourceStyle::Navigable","Unspecified"],
+    ["EA Specifics 1.0::SourceStyle::Owned","0"],
+    ["EA Specifics 1.0::SourceStyle::Union","0"]],
+   "parent": "{EB4C91D0-888A-4ec3-9697-A1CF4586A913}",
+   "ref": [
+    ["{A15F93E1-08BF-4abc-9D92-6ED784EAA3E6}","ConnectedObject",17],
+    ["{A15F93E1-08BF-4abc-9D92-6ED784EAA3E6}","Type",24],
+    ["{EB4C91D0-888A-4ec3-9697-A1CF4586A913}","SourceConnectorEndOwner",55]]}
  ]
 }
