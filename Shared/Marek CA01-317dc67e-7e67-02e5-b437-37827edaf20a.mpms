@@ -1,20 +1,20 @@
 ﻿//version: 3 (UM: 13.0.0.0)
-//{"ReadOnly":false,"Name":"Marek CA01","Guid":"{317dc67e-7e67-02e5-b437-37827edaf20a}","Description":null,"Authors":null,"Owners":null,"ReleaseNotes":null,"Copyright":null,"Tags":null,"Version":"A","OID":"d1cc21f6a512391204c88241e061d17a1731f85da380d19a2bbb6494a04f35ad","Status":0,"Dependencies":[{"name":"C3T","source":"{317dc67e-7e67-02e5-b437-37827edaf20a}","target":"{f1d670a4-c7b4-6d2b-8365-990d69d60d27}","versionConstraint":"*","dependencyClass":0}],"ModelPackageInfo":"{F945BF59-12C4-4c56-ACE7-B1104F8FCD98}:c9a0afbfae2fbb8fb116e56df95956bd9e7532784a68917cdd5cd1f9eede7bd8"}
+//{"ReadOnly":false,"Name":"Marek CA01","Guid":"{317dc67e-7e67-02e5-b437-37827edaf20a}","Description":null,"Authors":null,"Owners":null,"ReleaseNotes":null,"Copyright":null,"Tags":null,"Version":"A","OID":"88e61aa36712e68e9b944fbad7ed3f0c864e5db6696ef4bfed86cc47c3b30d79","Status":0,"Dependencies":[{"name":"C3T","source":"{317dc67e-7e67-02e5-b437-37827edaf20a}","target":"{f1d670a4-c7b4-6d2b-8365-990d69d60d27}","versionConstraint":"*","dependencyClass":0}],"ModelPackageInfo":"{F945BF59-12C4-4c56-ACE7-B1104F8FCD98}:86f0823a68110da2deaab21dcdfe42c50801f578ddcbf79e2572f271ae4de370"}
 //format: Raw
 {
  "version": "13.0.0.0",
  "objects": [
   {
-   "oid": "yGbxko0XeIOTfc5TUUwkDyw5eIrZZ/dnOzG25uELBBE=",
+   "oid": "428hYZQCX1j0pkU/V60Eqn9FYx3oXvY37+4GtFhJGL8=",
    "id": "{bfece868-bc68-7676-afec-1899b8b5535c}",
    "meta": [],
    "prop": [],
    "sub": [
     "Pf0pWXrRio57QbKEJACfi4z6HG6NIiB+d1qFyf0BMYM=",
-    "Rjr/V0Q7fDhnptQWzhyeTLO+KFng7tdP+XioAIpFNp4=",
-    "byO/Uonw2dFfsSARf2uHdhk2IvzREryw7N5dXWGqmA8="]},
+    "oNyN6bqSMRs2g656g3Mqzl2Pk3ZTb41CIOxSot1UG6U=",
+    "/97B8em4yhX7yR9FI86cT2N/QXVTfG2XXF2SkCnVAWs="]},
   {
-   "oid": "Rjr/V0Q7fDhnptQWzhyeTLO+KFng7tdP+XioAIpFNp4=",
+   "oid": "/97B8em4yhX7yR9FI86cT2N/QXVTfG2XXF2SkCnVAWs=",
    "id": "{1C7F10E3-7B3B-44F5-8954-A99BA9CFD3BA}",
    "meta": [
     ["+ET","t_package"],
@@ -44,7 +44,9 @@
     "YdIE9vVDT3Nle6xoGWbas9yTjdJSHqS83Zrw7P6Z3ko=",
     "Yxlci56AIbyEUotPGR6vKZjU+ddgbS61Hil520c+L+s=",
     "iQthpn5Rn++UfnRXsbCpXuORlvkGOnzpf6zyNEE1hCE=",
+    "lk/Xj2yk4ckHR4pN5kC7nFDGuFCAqCJ1ptJ/pQduf24=",
     "oWALMVEdvbws5/A4n5/pJw6ZtzSOPQiIanTcpJLrtkU=",
+    "zXSYXtuTLlKjRIM0NkTQTuNf7CuifSs+NA6MTW45AY4=",
     "2dgcxGTcYDqEf8XT1MBudk1HW6PD315jAB7/TtRjHCY=",
     "4RKcEEM6nKV2fgE81OE0QFmu8c38dxOSHkRyzjEjJL0=",
     "7NU66hg33sFW+83FcNh/xVJghzl3t+P1T+RcgiKFqDg="]},
@@ -67,7 +69,7 @@
     "Qoduzvemt2GoO0pOxuwturbH1i6GKiiaNcp8hpnN4Nw=",
     "gcaZXPgjhk6y2x9HZN4TkvyjIOnV+Y0E7SUTAhWlUaI="]},
   {
-   "oid": "byO/Uonw2dFfsSARf2uHdhk2IvzREryw7N5dXWGqmA8=",
+   "oid": "oNyN6bqSMRs2g656g3Mqzl2Pk3ZTb41CIOxSot1UG6U=",
    "id": "{EA1D0A51-F03B-4840-ACBA-B41F592304EE}",
    "meta": [
     ["+UT","Model"]],
@@ -81,8 +83,8 @@
     ["+M","+V","Public"]],
    "parent": "{bfece868-bc68-7676-afec-1899b8b5535c}",
    "sub": [
-    "dElf78FwlFGM3gDcBeQX4eAhBas47cDapLOtsQLDuFE=",
-    "nOIf3mtAuzP2Ty2rmHl1Lalv65p7Hp/bxXSE/DPPpYk="]},
+    "LLWH3Cx6Iff2ZdAPlccsKz72sAVI32aKoEWo2+90m3Q=",
+    "sTIo0WjFAzTDLPQ8SzdmV3zqxDwK3voDdS2z9JC0B6Y="]},
   {
    "oid": "YdIE9vVDT3Nle6xoGWbas9yTjdJSHqS83Zrw7P6Z3ko=",
    "id": "{ArchiMate3::ArchiMate_Aggregation}",
@@ -141,6 +143,25 @@
     ["+M","+V","Public"]],
    "parent": "{1C7F10E3-7B3B-44F5-8954-A99BA9CFD3BA}"},
   {
+   "oid": "lk/Xj2yk4ckHR4pN5kC7nFDGuFCAqCJ1ptJ/pQduf24=",
+   "id": "{ArchiMate3::ArchiMate_BusinessEvent}",
+   "meta": [
+    ["+CC","true"],
+    ["+ET","None"],
+    ["+EY","None"],
+    ["+UT","Stereotype"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+X","AppliesTo",""],
+    ["+M","+D",""],
+    ["+X","+CD?","false"],
+    ["+M","+ABS?",""],
+    ["+M","+ACT?",""],
+    ["+M","+N","ArchiMate_BusinessEvent"],
+    ["+X","StereotypeFullQualifiedName","ArchiMate3::ArchiMate_BusinessEvent"],
+    ["+M","+V","Public"]],
+   "parent": "{1C7F10E3-7B3B-44F5-8954-A99BA9CFD3BA}"},
+  {
    "oid": "TxY/MaNjJxqTekPxkyoTUSfsXQxJ4ZJc/e8MX71j/uY=",
    "id": "{ArchiMate3::ArchiMate_BusinessProcess}",
    "meta": [
@@ -176,6 +197,25 @@
     ["+M","+ACT?",""],
     ["+M","+N","ArchiMate_BusinessRole"],
     ["+X","StereotypeFullQualifiedName","ArchiMate3::ArchiMate_BusinessRole"],
+    ["+M","+V","Public"]],
+   "parent": "{1C7F10E3-7B3B-44F5-8954-A99BA9CFD3BA}"},
+  {
+   "oid": "zXSYXtuTLlKjRIM0NkTQTuNf7CuifSs+NA6MTW45AY4=",
+   "id": "{ArchiMate3::ArchiMate_Flow}",
+   "meta": [
+    ["+CC","true"],
+    ["+ET","None"],
+    ["+EY","None"],
+    ["+UT","Stereotype"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+X","AppliesTo",""],
+    ["+M","+D",""],
+    ["+X","+CD?","false"],
+    ["+M","+ABS?",""],
+    ["+M","+ACT?",""],
+    ["+M","+N","ArchiMate_Flow"],
+    ["+X","StereotypeFullQualifiedName","ArchiMate3::ArchiMate_Flow"],
     ["+M","+V","Public"]],
    "parent": "{1C7F10E3-7B3B-44F5-8954-A99BA9CFD3BA}"},
   {
@@ -364,7 +404,7 @@
    "sub": [
     "qc3hf9u1whgpAHfAYCnpT8COYRJCV7bOClvkVmgesg0="]},
   {
-   "oid": "nOIf3mtAuzP2Ty2rmHl1Lalv65p7Hp/bxXSE/DPPpYk=",
+   "oid": "sTIo0WjFAzTDLPQ8SzdmV3zqxDwK3voDdS2z9JC0B6Y=",
    "id": "{8220e627-cebd-91cc-fed5-05920954b511}",
    "meta": [
     ["+ET","t_package"],
@@ -393,10 +433,10 @@
     ["EA Specifics 1.0::StereotypeString","MPMS Spec"],
     ["EA Specifics 1.0::Version",""],
     ["Element Metadata 1.0::CreatedDate","2024-06-23T16:19:19Z"],
-    ["Element Metadata 1.0::ModifiedDate","2024-06-23T16:19:19Z"],
-    ["MPMS Configuration.Last Exported Version","A"],
-    ["MPMS Original Location Data","[{\"PackageIdentifier\":{\"id\":\"{F945BF59-12C4-4c56-ACE7-B1104F8FCD98}\"},\"StructurePath\":[{\"Identifier\":{\"id\":\"{F2E32486-FCE5-425f-AF43-0A0370E35836}\"},\"Name\":\"Model\",\"UmlType\":117}]}]"]],
+    ["Element Metadata 1.0::ModifiedDate","2024-06-23T16:19:19Z"]],
    "tvx": [
+    ["{ab87df4e-c1bc-b2e4-3698-5d1576d665f0}","MPMS Configuration.Last Exported Version","A",null,"",false],
+    ["{62cf1c0b-12ae-29b7-96b4-ccf9daf30f2d}","MPMS Original Location Data","[{\"PackageIdentifier\":{\"id\":\"{F945BF59-12C4-4c56-ACE7-B1104F8FCD98}\"},\"StructurePath\":[{\"Identifier\":{\"id\":\"{F2E32486-FCE5-425f-AF43-0A0370E35836}\"},\"Name\":\"Model\",\"UmlType\":117}]}]",null,"",false],
     ["{05a44e21-dc22-9204-3320-7ed884166ae3}","MPMS Package GUID","{317dc67e-7e67-02e5-b437-37827edaf20a}",null,"",false]],
    "parent": "{EA1D0A51-F03B-4840-ACBA-B41F592304EE}",
    "ref": [
@@ -404,10 +444,10 @@
     ["{mpms spec+package}","Stereotype",72]],
    "sub": [
     "JdUu0TIRB+x3gyAJqEu/TNidGb/iL1U8KojQ5Y+FybI=",
-    "k/YCY66rZwh4FgOCC5Ii6j5jZl+6B2oPS55UJkMP4jE=",
+    "xYm0cp9zlqQKDu6fKouPLcbuRbQp3n35js3K20IbhQQ=",
     "2ENsEBgjHgpvgTvcMSeOax53/WTqWOZM+pQiNXQwEAY="]},
   {
-   "oid": "dElf78FwlFGM3gDcBeQX4eAhBas47cDapLOtsQLDuFE=",
+   "oid": "LLWH3Cx6Iff2ZdAPlccsKz72sAVI32aKoEWo2+90m3Q=",
    "id": "{F945BF59-12C4-4c56-ACE7-B1104F8FCD98}",
    "meta": [
     ["+ET","t_package"],
@@ -438,8 +478,9 @@
     ["Element Metadata 1.0::ModifiedDate","2024-06-23T16:03:39Z"]],
    "parent": "{EA1D0A51-F03B-4840-ACBA-B41F592304EE}",
    "sub": [
-    "DVLXPb3ZYUq4Y+m3ps3Rx50DLVd4bjDi0xuI5LjaEUQ=",
+    "Fgt8SIEE5XwPOOCR9EJ9NDHYY7tl3hQyBSxTZRUT+F0=",
     "J/JNcsQ5y1StLPw7UGhp4IOQoAzMRhaKwa9bMJZ7qac=",
+    "j/3cDK1N2jZlS+vPcFLFc3YY96HRYvxWU+al9kfOZfg=",
     "xDy3m0JrDSZ8L7nVUEciypzYDKRaddxnb6KhN/8WScM=",
     "7cBt2DD1L7bF6FqyNHlxBOd0y1zZgyaWvfss3v3Hxco="]},
   {
@@ -628,7 +669,7 @@
     "oEjbImzV3m7VQ0jKLovaRG39769voMILwK7xUOiABs8=",
     "2G55S+CuqJzDK79Bs+9cOo63lzu53+foipvGCseP+hg="]},
   {
-   "oid": "k/YCY66rZwh4FgOCC5Ii6j5jZl+6B2oPS55UJkMP4jE=",
+   "oid": "xYm0cp9zlqQKDu6fKouPLcbuRbQp3n35js3K20IbhQQ=",
    "id": "{f6025387-2557-28e7-6dba-ec9ec3892c9a}",
    "meta": [
     ["+ET","t_object"],
@@ -671,21 +712,72 @@
     ["{mpms spec metadata+class}","Stereotype",72]],
    "sub": [
     "AZvyKW7AfNqoiaxyAg3H1RPPNnXR6gXmdGQxAIizVb4=",
+    "BRpnmq28baUHs53iN3Y9H+4Qls5+bxMFs655kwzp0L4=",
     "L5HU3V43rKsyCrVvl4hMt2lSgHgsT62O+PuPFoS1hVQ=",
     "YMH+tTukYcAqM2k70MDNBkSnqSkMLeJRsz+dyDZn1zc=",
-    "bB/D1dSliSAQlvfjE9NcyLHTAjkPCYwnVXYBv/FZaVk=",
     "dBOrcNXAK/OKz9awdH07MT6McrBxd3MiE4Haw6BfjA0=",
     "jJ3U+nz8Yng+3DdnQcr1VjNCU7SbdzecUf+LCmVxSZg=",
     "oe52JoKpz5wUBtHSVEcc4XYJs6mmgXavTHijgVPw0Fo=",
     "pprFsjSQdW+ASmOeu/29RaOvQS+aiMs3kyp05cdiPVk=",
+    "p9sBMQ8XAI7E5tVq2w2VwNvTSr5QGOlCVNDxNZI820k=",
     "vRDg92s2XPH9lW5vF3LsAMbD2rXpTvQYWD8J1M0d1PY=",
     "1N9a2MuLXiYJxll3IRiHYSHEstDsM1UTR0akcS+9KYo=",
     "18VQzMD4SoryjTQrdC+evG0icNkXgSjpLk852W3GNGE=",
     "2i6h2706vEqBGh41JjUY//hF4mYnwTiT/pegobST0vM=",
-    "4nMFhHnk/aRrqEdOw4rf7284fAWpa0M/Bc1VpkzQcHs=",
     "5PM4QPqTPPLL5UrePfFz02Em3uPmtI9FtGd4vrUMuR0="]},
   {
-   "oid": "DVLXPb3ZYUq4Y+m3ps3Rx50DLVd4bjDi0xuI5LjaEUQ=",
+   "oid": "Fgt8SIEE5XwPOOCR9EJ9NDHYY7tl3hQyBSxTZRUT+F0=",
+   "id": "{2DF142E9-9A9D-411a-826F-F730555F9760}",
+   "meta": [
+    ["+ET","t_object"],
+    ["+EY","Activity"],
+    ["+NT","0"],
+    ["+OT","Activity"],
+    ["+ST","ArchiMate_BusinessEvent"],
+    ["+UT","Activity"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+X","+CD?","false"],
+    ["+M","+ABS?","false"],
+    ["+M","+ACT?","false"],
+    ["+M","+FS?","false"],
+    ["+M","IsLeaf","false"],
+    ["+M","IsReadOnly","false"],
+    ["+M","IsReentrant","true"],
+    ["+M","IsSingleExecution","false"],
+    ["+M","+N","BusinessEvent1"],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::Author","user"],
+    ["EA Specifics 1.0::Backcolor","-1"],
+    ["EA Specifics 1.0::BorderStyle","0"],
+    ["EA Specifics 1.0::BorderWidth","1"],
+    ["EA Specifics 1.0::Bordercolor","-1"],
+    ["EA Specifics 1.0::Complexity","1"],
+    ["EA Specifics 1.0::Fontcolor","-1"],
+    ["EA Specifics 1.0::Language","<none>"],
+    ["EA Specifics 1.0::Phase","1.0"],
+    ["EA Specifics 1.0::Pos",""],
+    ["EA Specifics 1.0::PostCondition",""],
+    ["EA Specifics 1.0::PreCondition",""],
+    ["EA Specifics 1.0::Status","Proposed"],
+    ["EA Specifics 1.0::StereotypeString","ArchiMate_BusinessEvent"],
+    ["EA Specifics 1.0::Style",""],
+    ["EA Specifics 1.0::StyleEx",""],
+    ["EA Specifics 1.0::Version","1.0"],
+    ["EA Specifics 1.0::t_xref::CustomProperties","@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=ArchiMate3::Business@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;@PROP=@NAME=_HideUmlLinks@ENDNAME;@TYPE=string@ENDTYPE;@VALU=True@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;"],
+    ["Element Metadata 1.0::CreatedDate","2024-06-24T18:36:52Z"],
+    ["Element Metadata 1.0::ModifiedDate","2024-06-24T18:36:52Z"],
+    ["UM::stereotype::ArchiMate_BusinessEvent::fqn","ArchiMate3::ArchiMate_BusinessEvent"]],
+   "parent": "{F945BF59-12C4-4c56-ACE7-B1104F8FCD98}",
+   "ref": [
+    ["{ArchiMate3::ArchiMate_BusinessEvent}","PrimaryStereotype",16],
+    ["{ArchiMate3::ArchiMate_BusinessEvent}","Stereotype",72]],
+   "sub": [
+    "8C0rxcP5YxoA7OFIeGxtpXDdAbCenY1rkXTJmudDBX4="]},
+  {
+   "oid": "j/3cDK1N2jZlS+vPcFLFc3YY96HRYvxWU+al9kfOZfg=",
    "id": "{70D90989-AA31-42b6-B1C6-ED92A58CFE4A}",
    "meta": [
     ["Diagram_Type","Logical"],
@@ -718,13 +810,15 @@
     ["EA Specifics 1.0::Swimlanes","locked=false;orientation=0;width=0;inbar=false;names=false;color=-1;bold=false;fcol=0;tcol=-1;ofCol=-1;ufCol=-1;hl=1;ufh=0;hh=0;cls=0;bw=0;hli=0;bro=0;"],
     ["EA Specifics 1.0::Version","1.0"],
     ["Element Metadata 1.0::CreatedDate","2024-06-23T16:03:45Z"],
-    ["Element Metadata 1.0::ModifiedDate","2024-06-23T16:19:33Z"]],
+    ["Element Metadata 1.0::ModifiedDate","2024-06-24T18:36:59Z"]],
    "parent": "{F945BF59-12C4-4c56-ACE7-B1104F8FCD98}",
    "sub": [
     "GzSIA+tkgPD7lnyTiD/pGgX7vBu12tTmg06MoaZK4/I=",
     "HnVPEFFcQdhAYT7aaZbNZ26/g8HDl5SJHdvpxAA+jnI=",
     "JQHWHd0TFVV02UVffVX542K9JrXfOIuQ6I2Co0ycJ1w=",
     "KegsHO8Xg9gBvBmHykKk5KfbqufQzvtUz1nvFYFNeow=",
+    "LIQ6YxMi7w8HDSF0GI6zAMvDx07XHBq8cH+bwRt+afQ=",
+    "ZJXDnBqnKrTMkphRrZP0XuACwZDqQkXcYghGrV7ex0Q=",
     "boodNvOMUUwVibu/VkcMv0ltY2DCBjOb9XdbBXPlJaI=",
     "dIalwiIvAckZx44qP8wsQEoFzQkqC/u4aKlqXUq9Ahw=",
     "pdlEUDJBPHAtWEk/VE396FmWTZe7Z8UbzLx1wIBTjMQ=",
@@ -1376,7 +1470,7 @@
     ["EA Specifics 1.0::TypeString","String"]],
    "parent": "{f6025387-2557-28e7-6dba-ec9ec3892c9a}"},
   {
-   "oid": "4nMFhHnk/aRrqEdOw4rf7284fAWpa0M/Bc1VpkzQcHs=",
+   "oid": "BRpnmq28baUHs53iN3Y9H+4Qls5+bxMFs655kwzp0L4=",
    "id": "{43819f02-37a9-54c2-8977-824ccc3b2cc6}",
    "meta": [
     ["+ET","t_attribute"],
@@ -1406,7 +1500,11 @@
     ["EA Specifics 1.0::Pos","0"],
     ["EA Specifics 1.0::StyleEx",""],
     ["EA Specifics 1.0::TypeString","String"]],
-   "parent": "{f6025387-2557-28e7-6dba-ec9ec3892c9a}"},
+   "parent": "{f6025387-2557-28e7-6dba-ec9ec3892c9a}",
+   "ref": [
+    ["{6d7bbbf8-4b55-6016-6123-8b6a50830299}","DefaultValue",16]],
+   "sub": [
+    "JSJeN0gJgtn4sc2IgIxI5eEl1QQy80iDj7/cdlZDC58="]},
   {
    "oid": "vRDg92s2XPH9lW5vF3LsAMbD2rXpTvQYWD8J1M0d1PY=",
    "id": "{5fa58289-7c61-f139-e43d-06ae967de1c7}",
@@ -1580,7 +1678,7 @@
    "sub": [
     "4fxdgiHo14w2twS6vaSNqFU84fd5JGHNSodn0JHov+8="]},
   {
-   "oid": "bB/D1dSliSAQlvfjE9NcyLHTAjkPCYwnVXYBv/FZaVk=",
+   "oid": "p9sBMQ8XAI7E5tVq2w2VwNvTSr5QGOlCVNDxNZI820k=",
    "id": "{c6e4f6c5-cccd-603c-4783-51b178ff5013}",
    "meta": [
     ["+ET","t_attribute"],
@@ -1610,7 +1708,11 @@
     ["EA Specifics 1.0::Pos","0"],
     ["EA Specifics 1.0::StyleEx",""],
     ["EA Specifics 1.0::TypeString","String"]],
-   "parent": "{f6025387-2557-28e7-6dba-ec9ec3892c9a}"},
+   "parent": "{f6025387-2557-28e7-6dba-ec9ec3892c9a}",
+   "ref": [
+    ["{98862c5a-4524-7119-6388-12e5a56b69cb}","DefaultValue",16]],
+   "sub": [
+    "nl61x8Cvuhc8KNDBs2zKTjQZiQGECEy4u+qapANraic="]},
   {
    "oid": "5PM4QPqTPPLL5UrePfFz02Em3uPmtI9FtGd4vrUMuR0=",
    "id": "{cadd2d59-d868-5de3-d0e1-2842a4bb9f67}",
@@ -1647,6 +1749,48 @@
     ["{8b325979-7b66-435c-2f6e-0ae347cb85b2}","DefaultValue",16]],
    "sub": [
     "AjrEQeXnpehoDzg1H7J3jjf8AUXWytiaILZTMwgMQLE="]},
+  {
+   "oid": "8C0rxcP5YxoA7OFIeGxtpXDdAbCenY1rkXTJmudDBX4=",
+   "id": "{7BB200B6-E3CF-424d-9766-D32241DD1AA4}",
+   "meta": [
+    ["Connector_Type","ControlFlow"],
+    ["+ET","t_connector"],
+    ["+EY","ControlFlow"],
+    ["+ST","ArchiMate_Flow"],
+    ["SubType",""],
+    ["+UT","ControlFlow"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","IsLeaf","false"],
+    ["+M","+N",""],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::End_Edge","0"],
+    ["EA Specifics 1.0::IsBold","0"],
+    ["EA Specifics 1.0::LineColor","-1"],
+    ["EA Specifics 1.0::OwningDiagram",""],
+    ["EA Specifics 1.0::PDATA5","SX=0;SY=0;EX=0;EY=0;"],
+    ["EA Specifics 1.0::PtEndX","0"],
+    ["EA Specifics 1.0::PtEndY","0"],
+    ["EA Specifics 1.0::PtStartX","0"],
+    ["EA Specifics 1.0::PtStartY","0"],
+    ["EA Specifics 1.0::RouteStyle","3"],
+    ["EA Specifics 1.0::SeqNo","0"],
+    ["EA Specifics 1.0::Start_Edge","0"],
+    ["EA Specifics 1.0::StateFlags",""],
+    ["EA Specifics 1.0::StereotypeString","ArchiMate_Flow"],
+    ["EA Specifics 1.0::Target2",""],
+    ["UM::stereotype::ArchiMate_Flow::fqn","ArchiMate3::ArchiMate_Flow"]],
+   "parent": "{2DF142E9-9A9D-411a-826F-F730555F9760}",
+   "ref": [
+    ["{2DF142E9-9A9D-411a-826F-F730555F9760}","Source",17],
+    ["{ArchiMate3::ArchiMate_Flow}","PrimaryStereotype",16],
+    ["{ArchiMate3::ArchiMate_Flow}","Stereotype",72],
+    ["{B716D6F4-604C-42d8-8E44-86EA362E1854}","Target",17]],
+   "sub": [
+    "RbK06peap7PR7aKIq9eRUzwk/ozVpjpfUVHo1YU34FA=",
+    "m6ondptG24mBNVdBm6m8+4Wkvu30xRIvULulqKQP4QU="]},
   {
    "oid": "6CrBc/dxk0yggYIDiMq2G+cLuK/1mcXcVt8DlxASQvU=",
    "id": "{03817c11-331a-2a85-8ac9-3c5490d3642b}",
@@ -1776,6 +1920,34 @@
     ["{70D90989-AA31-42b6-B1C6-ED92A58CFE4A}","DiagramIntegralFeature",32],
     ["{70D90989-AA31-42b6-B1C6-ED92A58CFE4A}","UpdateDiagramobjects",8],
     ["{9D2BF713-991C-444c-9065-DDD8DCD98DF7}","Represents",889]]},
+  {
+   "oid": "ZJXDnBqnKrTMkphRrZP0XuACwZDqQkXcYghGrV7ex0Q=",
+   "id": "{7de6aac4-9680-d2bf-e90a-77bfe41cae6b}",
+   "meta": [
+    ["+ET","t_diagramobjects"],
+    ["+EY","DiagramObject"],
+    ["+UT","ea_DiagramObject"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+X","Hyperlink",""],
+    ["+M","IsLeaf","false"],
+    ["+M","+N",""],
+    ["+M","RectBottom","-508"],
+    ["+M","RectLeft","346"],
+    ["+M","RectRight","451"],
+    ["+M","RectTop","-438"],
+    ["+M","+V","Public"],
+    ["+M","ZOrder","1"]],
+   "tval": [
+    ["EA Specifics 1.0::ObjectStyle::DUID","5DC76C25"],
+    ["EA Specifics 1.0::ObjectStyle::HideIcon","0"],
+    ["EA Specifics 1.0::ObjectStyle::UCRect","1"]],
+   "parent": "{70D90989-AA31-42b6-B1C6-ED92A58CFE4A}",
+   "ref": [
+    ["{2DF142E9-9A9D-411a-826F-F730555F9760}","Represents",889],
+    ["{70D90989-AA31-42b6-B1C6-ED92A58CFE4A}","DiagramIntegralFeature",32],
+    ["{70D90989-AA31-42b6-B1C6-ED92A58CFE4A}","UpdateDiagramobjects",8]]},
   {
    "oid": "boodNvOMUUwVibu/VkcMv0ltY2DCBjOb9XdbBXPlJaI=",
    "id": "{83c5a6f9-fa97-6a60-9bbb-12f2e99fdc38}",
@@ -1923,6 +2095,28 @@
    "ref": [
     ["{3E64FA58-F538-48be-A67E-C30D67D0E74D}","Represents",889],
     ["{70D90989-AA31-42b6-B1C6-ED92A58CFE4A}","DiagramIntegralFeature",32]]},
+  {
+   "oid": "LIQ6YxMi7w8HDSF0GI6zAMvDx07XHBq8cH+bwRt+afQ=",
+   "id": "{d265d5f8-dbfe-44ae-ba23-c718417f6fd5}",
+   "meta": [
+    ["+ET","t_diagramlinks"],
+    ["+EY","DiagramLink"],
+    ["+UT","ea_DiagramLink"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+X","IsHidden","false"],
+    ["+M","IsLeaf","false"],
+    ["+M","+N",""],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::Geometry","SX=0;SY=0;EX=0;EY=0;EDGE=1;$LLB=;LLT=;LMT=;LMB=CX=102:CY=13:OX=0:OY=0:HDN=0:BLD=0:ITA=0:UND=0:CLR=-1:ALN=1:DIR=0:ROT=0;LRT=;LRB=;IRHS=;ILHS=;"],
+    ["EA Specifics 1.0::Path",""],
+    ["EA Specifics 1.0::Style","Mode=3;EOID=8E9B3D6F;SOID=5DC76C25;Color=-1;LWidth=1;"]],
+   "parent": "{70D90989-AA31-42b6-B1C6-ED92A58CFE4A}",
+   "ref": [
+    ["{70D90989-AA31-42b6-B1C6-ED92A58CFE4A}","DiagramIntegralFeature",32],
+    ["{7BB200B6-E3CF-424d-9766-D32241DD1AA4}","Represents",889]]},
   {
    "oid": "GaAcG9x06EkEP8m4Rsu+Ek+o+KUiHZg/01AE/exSqDY=",
    "id": "{39EC2D51-BFC2-42e2-B0F6-E70B5A1F42DD}",
@@ -2357,6 +2551,21 @@
     ["+M","+V","Public"]],
    "parent": "{2a8ec95c-c231-727f-729e-21c14d2ed93a}"},
   {
+   "oid": "JSJeN0gJgtn4sc2IgIxI5eEl1QQy80iDj7/cdlZDC58=",
+   "id": "{6d7bbbf8-4b55-6016-6123-8b6a50830299}",
+   "meta": [
+    ["+CC","true"],
+    ["+ET","None"],
+    ["+EY","None"],
+    ["+UT","LiteralString"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","+N",""],
+    ["+M","Value","{F945BF59-12C4-4c56-ACE7-B1104F8FCD98}:c9a0afbfae2fbb8fb116e56df95956bd9e7532784a68917cdd5cd1f9eede7bd8"],
+    ["+M","+V","Public"]],
+   "parent": "{43819f02-37a9-54c2-8977-824ccc3b2cc6}"},
+  {
    "oid": "mivhzBiqiOr9cMUPbr79x5W38jdrfgD10DxqBzN2ohA=",
    "id": "{a2abeccc-a872-15c9-cdb1-0d4b63134c5e}",
    "meta": [
@@ -2402,6 +2611,21 @@
     ["+M","+V","Public"]],
    "parent": "{a125d80b-ad70-b90a-85c7-b4c2fea07b0a}"},
   {
+   "oid": "nl61x8Cvuhc8KNDBs2zKTjQZiQGECEy4u+qapANraic=",
+   "id": "{98862c5a-4524-7119-6388-12e5a56b69cb}",
+   "meta": [
+    ["+CC","true"],
+    ["+ET","None"],
+    ["+EY","None"],
+    ["+UT","LiteralString"]],
+   "prop": [
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","+N",""],
+    ["+M","Value","d1cc21f6a512391204c88241e061d17a1731f85da380d19a2bbb6494a04f35ad"],
+    ["+M","+V","Public"]],
+   "parent": "{c6e4f6c5-cccd-603c-4783-51b178ff5013}"},
+  {
    "oid": "AjrEQeXnpehoDzg1H7J3jjf8AUXWytiaILZTMwgMQLE=",
    "id": "{8b325979-7b66-435c-2f6e-0ae347cb85b2}",
    "meta": [
@@ -2416,6 +2640,74 @@
     ["+M","Value","A"],
     ["+M","+V","Public"]],
    "parent": "{cadd2d59-d868-5de3-d0e1-2842a4bb9f67}"},
+  {
+   "oid": "RbK06peap7PR7aKIq9eRUzwk/ozVpjpfUVHo1YU34FA=",
+   "id": "{431fb2f1-6e09-25e6-e49e-bcc0a8afa127}",
+   "meta": [
+    ["Connector_Type","ControlFlow"],
+    ["+ET","t_connector"],
+    ["+EY","ConnectorEnd"],
+    ["IsConnectorEnd","true"],
+    ["+UT","ConnectorEnd"]],
+   "prop": [
+    ["+M","AggregationKind","None"],
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","IsDerivedUnion","false"],
+    ["+M","IsID","false"],
+    ["+M","IsLeaf","false"],
+    ["+M","IsNavigable","true"],
+    ["+M","IsOrdered","false"],
+    ["+M","IsReadOnly","false"],
+    ["+M","IsStatic","false"],
+    ["+M","IsUnique","true"],
+    ["+M","+N",""],
+    ["+X","PropertyKind","AssociationEnd"],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::DestStyle::AllowDuplicates","0"],
+    ["EA Specifics 1.0::DestStyle::Derived","0"],
+    ["EA Specifics 1.0::DestStyle::Navigable",""],
+    ["EA Specifics 1.0::DestStyle::Union","0"]],
+   "parent": "{7BB200B6-E3CF-424d-9766-D32241DD1AA4}",
+   "ref": [
+    ["{7BB200B6-E3CF-424d-9766-D32241DD1AA4}","TargetConnectorEndOwner",55],
+    ["{B716D6F4-604C-42d8-8E44-86EA362E1854}","ConnectedObject",17],
+    ["{B716D6F4-604C-42d8-8E44-86EA362E1854}","Type",24]]},
+  {
+   "oid": "m6ondptG24mBNVdBm6m8+4Wkvu30xRIvULulqKQP4QU=",
+   "id": "{78f48bab-46fd-6bdd-6136-a53c3bc56c05}",
+   "meta": [
+    ["Connector_Type","ControlFlow"],
+    ["+ET","t_connector"],
+    ["+EY","ConnectorEnd"],
+    ["IsConnectorEnd","true"],
+    ["+UT","ConnectorEnd"]],
+   "prop": [
+    ["+M","AggregationKind","None"],
+    ["+X","+A",""],
+    ["+M","+D",""],
+    ["+M","IsDerivedUnion","false"],
+    ["+M","IsID","false"],
+    ["+M","IsLeaf","false"],
+    ["+M","IsNavigable","false"],
+    ["+M","IsOrdered","false"],
+    ["+M","IsReadOnly","false"],
+    ["+M","IsStatic","false"],
+    ["+M","IsUnique","true"],
+    ["+M","+N",""],
+    ["+X","PropertyKind","AssociationEnd"],
+    ["+M","+V","Public"]],
+   "tval": [
+    ["EA Specifics 1.0::SourceStyle::AllowDuplicates","0"],
+    ["EA Specifics 1.0::SourceStyle::Derived","0"],
+    ["EA Specifics 1.0::SourceStyle::Navigable",""],
+    ["EA Specifics 1.0::SourceStyle::Union","0"]],
+   "parent": "{7BB200B6-E3CF-424d-9766-D32241DD1AA4}",
+   "ref": [
+    ["{2DF142E9-9A9D-411a-826F-F730555F9760}","ConnectedObject",17],
+    ["{2DF142E9-9A9D-411a-826F-F730555F9760}","Type",24],
+    ["{7BB200B6-E3CF-424d-9766-D32241DD1AA4}","SourceConnectorEndOwner",55]]},
   {
    "oid": "bYu9kn1l0Z+ay4ON1shplewdN2Z64ZkGOvk2FXksDdg=",
    "id": "{7dcb3b4f-84d0-ea3c-5f09-c8e1e882a2d8}",
